@@ -22,12 +22,11 @@ It’s never been easier to scan document with your smartphone; with this scanne
 - Credential, Certificate, Identity Document, Painting
 
 ## Screenshots
-
-![Screenshot_2022-07-12-19-14-37-65](https://user-images.githubusercontent.com/76894348/178506258-268654ec-56fc-4494-aa7d-d12585a418cb.png)
-![Screenshot_2022-07-12-19-14-59-88](https://user-images.githubusercontent.com/76894348/178506270-2cb95aa3-c70a-4e22-9d29-4188e09c7191.png)
-![Screenshot_2022-07-12-19-15-15-28](https://user-images.githubusercontent.com/76894348/178506275-15efc1fb-ce92-4617-ac48-a81380da28ee.png)
-![Screenshot_2022-07-12-19-14-27-58](https://user-images.githubusercontent.com/76894348/178506287-ff0dc180-af0e-4335-a826-2fad78616762.png)
-![Screenshot_2022-07-12-19-15-41-10](https://user-images.githubusercontent.com/76894348/178506289-0c670902-71de-4d3a-8035-137a434b89d1.png)
-![Screenshot_2022-07-12-19-15-47-71](https://user-images.githubusercontent.com/76894348/178506293-545648ce-0588-4e2f-ab5c-682367957b19.png)
-![Screenshot_2022-07-12-19-14-16-60](https://user-images.githubusercontent.com/76894348/178506295-c921f099-5206-40b5-8ad2-e59b41fc8699.png)
-![Screenshot_2022-07-12-19-14-06-26](https://user-images.githubusercontent.com/76894348/178506296-b73f7d1e-7c21-4cd7-93d5-2b1f64e4ed43.png)
+![Screenshot_2022-07-12-19-14-06-26](https://user-images.githubusercontent.com/76894348/178507584-f524138c-85e0-4831-8b6b-b1937ba4ec8d.png)
+![Screenshot_2022-07-12-19-14-37-65](https://user-images.githubusercontent.com/76894348/178507597-99e5b29e-c1d9-4f48-b17b-dde306da5b81.png)
+![Screenshot_2022-07-12-19-14-59-88](https://user-images.githubusercontent.com/76894348/178507605-7d383660-f5e1-4cfa-acab-f804db0cb866.png)
+![Screenshot_2022-07-12-19-15-15-28](https://user-images.githubusercontent.com/76894348/178507607-fe80cf1a-22c2-4743-8839-14ebacb2984f.png)
+![Screenshot_2022-07-12-19-14-27-58](https://user-images.githubusercontent.com/76894348/178507609-2abb8eb5-a516-4b47-b84c-e58873a043ba.png)
+![Screenshot_2022-07-12-19-15-41-10](https://user-images.githubusercontent.com/76894348/178507611-dd9d709a-f42c-439f-8b6e-a0897c628979.png)
+![Screenshot_2022-07-12-19-15-47-71](https://user-images.githubusercontent.com/76894348/178507616-15977252-8914-4f56-b92e-f15477a2b326.png)
+![Screenshot_2022-07-12-19-14-16-60](https://user-images.githubusercontent.com/76894348/178507619-54459414-66f7-472f-bb4e-4af910ec1a61.png)
